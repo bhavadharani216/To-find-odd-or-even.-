@@ -1,1 +1,8 @@
-# To-find-odd-or-even.-
+To find odd or even 
+
+a=int(input()) 
+if(a%2==0):
+   print("even") 
+else:
+   print("odd") 
+    
